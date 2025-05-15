@@ -1,5 +1,5 @@
 Config = {}
-Config.Framework = "qb"
+Config.Framework = "qb" --Do not touch this, I changed the qb calls to work for QBX.
 
 Config.AmbulancePerm = "ambulance"
 Config.PolicePerm = "police"
