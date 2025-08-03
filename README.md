@@ -1,5 +1,7 @@
-Buy Me a Coffee? Thanks :>
+<a href='https://ko-fi.com/G2G81E5J4O' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> Thanks :>
 https://ko-fi.com/imbrendano
+
+# CAS-DispatchQBX
 
 This resource is originally developed by: https://github.com/mb-later
 Thought it was awesome but it didn't have support for QBox Framework so I spent a few hours modifying the resource to make it work for QBX. Figured it might be useful for others!
