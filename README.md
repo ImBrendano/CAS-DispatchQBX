@@ -1,4 +1,5 @@
-# CAS-DispatchQBX
+Buy Me a Coffee? Thanks :>
+https://ko-fi.com/imbrendano
 
 This resource is originally developed by: https://github.com/mb-later
 Thought it was awesome but it didn't have support for QBox Framework so I spent a few hours modifying the resource to make it work for QBX. Figured it might be useful for others!
